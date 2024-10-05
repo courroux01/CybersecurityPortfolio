@@ -1,21 +1,20 @@
-package com.sweettooth.java;
+package com.sweettooth.blackjack;
 
 import java.util.Scanner;
 
 // Some of the code here is for future project reference
-public class CardGame {
+public class Blackjack {
     
     // Create an array to hold all 52 cards (a standard deck)
-    public static Card[] fullDeck = CardGame.initializeDeck();
+    public static Card[] fullDeck = Blackjack.initializeDeck();
     
     // Holds the current deck of cards
     private Card[] currentDeck; 
     
-    // Constructor for CardGame
-    public CardGame() {
+    // Constructor for Blackjack
+    public Blackjack() {
         // Initialize currentDeck to fullDeck
-        this.currentDeck = CardGame.fullDeck; 
-        this.player = player
+        this.currentDeck = Blackjack.fullDeck; 
     }
     
     public static void main(String[] args) {
@@ -26,7 +25,7 @@ public class CardGame {
         int numCards = 7; 
         
         // Generate a hand of cards and get the remaining deck
-        HandAndDeck handAndDeck = CardHandGenerator.generateHand(
+        HandAndDeck handAndDeck = HandGenerator.generateHand(
             numCards, mainDeck
         );
         
@@ -109,15 +108,5 @@ public class CardGame {
         
         // Return the completed deck
         return deck; 
-    }
-}
-
- *
- * @author aedul
- */
-public class Blackjack {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
     }
 }
