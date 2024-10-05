@@ -21,6 +21,8 @@ public class Blackjack {
         // Initialize the full deck of cards
         Card[] mainDeck = initializeDeck();
         
+        System.out.println("Amanjit was here");
+        
         // Number of cards to draw
         int numCards = 7; 
         
