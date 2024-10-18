@@ -72,6 +72,8 @@ def decrypt(text: str, shift: int) -> str:
     return result
 
 def run() -> None:
+    print("Welcome to the caesar cypher program!")
+    
     # While loop that runs until the user enters 'e' or 'd'
     while True:
         # Ask user whether to encrypt or decrypt
