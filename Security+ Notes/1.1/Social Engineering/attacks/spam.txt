@@ -1,0 +1,18 @@
+Spam
+- unsoclicited, often annoying messages
+- SPIM: spam over instant messaging
+- various content: advertising, phishing, proseltyzing
+
+Significant technology issue
+- security concerns
+- resource utilization
+- time
+- storage
+
+Prevention
+- mail gateways
+- allowed list
+- smtp standard checks
+- rdns checks
+- tarpitting: slow down the server conversation
+- recipient filtering

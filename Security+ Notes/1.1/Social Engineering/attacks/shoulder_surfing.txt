@@ -1,0 +1,12 @@
+Shoulder surfing
+- you are an authorized person
+- people can look on your shoulder to see credentials
+- can be from curiosity
+- very easy and low effort
+- surf from afar
+
+Prevention
+- control input
+- be aware of surroundings
+- use privacy filters
+- keep monitor out of sight

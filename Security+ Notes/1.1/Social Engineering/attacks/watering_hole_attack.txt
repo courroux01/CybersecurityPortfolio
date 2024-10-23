@@ -1,0 +1,13 @@
+Watering Hole Attack
+- your organization is "secure"
+- bad guys can't simply get in
+- no random clicks, hard to phish
+- if you cant find the cave, find the water source instead!
+- social engineering and Reconnaisance method
+- determine which websites or places victims go
+- poison that place in hopes of infecting multiple people or infecting deep enough to pivot to a weak point inside
+- visiting certain sites might download malicious script files that would only trigger on certain events
+
+Prevention
+- defense in depth: layered defense
+- firewalls, ips, anti-virus and malware

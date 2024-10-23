@@ -1,0 +1,9 @@
+Tailgating
+- use an authorized agent to gain unauthorized access
+- blend in with clothing or on smoking spots (watering hole)
+- most security stops at the border
+
+Prevention
+- visitor policy
+- one scan, one person
+- airlock, multifactored authentication

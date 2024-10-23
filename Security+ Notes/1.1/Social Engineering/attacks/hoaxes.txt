@@ -1,0 +1,14 @@
+Computer Hoax
+- things that seem real but aren't so
+- waste of time and resources
+- CAN take your money
+- a virus hoax can waste as much time as a real one
+- pharm -> update your "Adobe player"
+- might install a PUP (potentially unwanted program)
+- or worse, a malware.
+
+Prevention
+- don't believe the internet immediately
+- spam filters help
+- cross reference
+- if it sounds too good to be true it probably is

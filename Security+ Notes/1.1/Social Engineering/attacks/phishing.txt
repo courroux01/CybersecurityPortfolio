@@ -1,0 +1,37 @@
+Phishing: social engineering with spoofing
+- delivered by email or text
+
+Protection:
+- check the url
+- check formatting, email, graphics
+
+Tricks and misdirection
+- slight of hand
+- typosquatting: go0gle.com
+- prepending: ggoogle.com
+
+Pretexting
+- lying to get information
+
+Pharming
+- redirection to a bogus site
+- dns poisoning
+- combination of pharming and phishing collects information on a large scale
+
+Vishing
+- voice phishing
+- caller id spoofing
+
+Smishing
+- sms phishing
+- forwards links
+
+Best spots to phish: Reconnaisance
+- gather information on the victim profile
+- lead generation sites, social media
+- attacker then builds a believable Pretext
+
+Spear Phishing
+- targeted phishing with a potential big catch
+- think ceos or cfos
+
